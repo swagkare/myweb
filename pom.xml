@@ -43,7 +43,7 @@
 	    <pluginRepository>    
 		<id>maven1</id>
 		<name>Maven.org</name>
-		<url> https://mvnrepository.com/artifact/org.apache.maven.plugins/maven-dependency-plugin </url>
+		<url>https://repo.maven.apache.org/maven2</url>
 	    </pluginRepository>
 	</pluginRepositories>
 
