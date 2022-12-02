@@ -23,6 +23,8 @@
 			<artifactId>maven-compiler-plugin</artifactId>
 			<version>3.8.6</version>
 			<scope>test</scope>
+			<source>1.8</source>
+			<target>1.8</target>
 		</dependency>
 
 	</dependencies>
