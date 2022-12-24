@@ -45,9 +45,9 @@
 	
 	<pluginRepositories>
 	    <pluginRepository>    
-		<id>maven1</id>
+		<id>maven2</id>
 		<name>Maven.org</name>
-		<url>https://repo1.maven.apache.org/maven2</url>
+		<url>https://repo1.maven.apache.org/maven3</url>
 	    </pluginRepository>
 	</pluginRepositories>
 
